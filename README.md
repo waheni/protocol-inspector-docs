@@ -137,10 +137,8 @@ If no messages are loaded, export is blocked.
 The **Help** tab provides:
 - **Report Issue**: opens the issue form in your browser.
 - **Request Feature**: opens feature request form.
-- **Rate Plugin**: opens marketplace page (if configured).
+- **Rate Plugin**: opens marketplace page .
 
-If a URL is not configured, the plugin shows:
-**“Please configure feedback URL”**.
 
 ---
 
