@@ -19,6 +19,17 @@ You can:
 - IntelliJ Platform IDE with the plugin installed.
 - SIP trace text available in your clipboard.
 
+## 2.1 IDE compatibility
+
+Protocol Inspector is built on the IntelliJ Platform and is not limited to IntelliJ IDEA only.
+
+It can be installed in other JetBrains IDEs as well, including:
+- GoLand
+- RustRover
+- Android Studio
+
+Compatibility depends on each IDE's underlying IntelliJ Platform build version and Marketplace availability.
+
 ---
 
 ## 3) Open the plugin
