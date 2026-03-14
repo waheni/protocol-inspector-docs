@@ -172,8 +172,6 @@ Current links:
 - Feature requests: https://github.com/waheni/protocol-inspector-docs/issues/new?template=feature_request.md
 - Reviews: https://plugins.jetbrains.com/plugin/29805-protocol-inspector/reviews
 
-If a URL is not configured, the plugin shows:
-**“Please configure feedback URL”**.
 
 ---
 
